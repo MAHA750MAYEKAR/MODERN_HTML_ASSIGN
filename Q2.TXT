@@ -1,0 +1,9 @@
+Q2} What are HTML entities? with 5 examples.
+Answer:An HTML entity is a piece of text ("string") that begins with an ampersand (&) and ends with a semicolon (;). HTML entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces)
+
+EXAMPLES:
+°	&deg;	Interpreted as the degree symbol.
+©	&copy;	Interpreted as the copyright sign.
+€	&euro;	Interpreted as the euro symbol.
+>	&gt;	Interpreted as the ending of a tag
+≠	&ne;	Interpreted as not equal to sign.

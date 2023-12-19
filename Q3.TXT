@@ -1,0 +1,20 @@
+ Web accessibility:The Web should be designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this requirement, it is accessible to people with a diverse range of abilities like hearing, movement, sight, and cognitive abilities.
+
+
+ WHY IS WEB ACCESSIBILITY IMPORTANT:
+ If everyone can access and use your clients’ web pages that means:
+
+More traffic: a larger audience can access the websites. 
+More sales and conversions: Since the site gets more traffic, it gets more conversions too.
+Better search engine optimization (SEO): More traffic, a better bounce rate, all sends positive feedback to search engines.
+Better user experience: Accessible content and accessible design is user-friendly, so it’s easier to navigate and understand for everyone.
+
+
+An accessible website can be used by people with all types of disabilities:
+
+Those with visual impairments or color blindness
+Those with auditory disabilities
+Those who must navigate by voice
+Those with cognitive disabilities,
+Those with temporary disabilities
+Those who need to use screen readers or other assistive technologies.

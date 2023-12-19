@@ -1,0 +1,26 @@
+List of  HTML5 Features:
+
+1.Semantic Elements
+   Semantics,  is the use of HTML tags that accurately reflect the content they contain. For instance, using the <div> tag doesn’t suggest the content it will carry, however using the <p> tag suggests it can be used to hold paragraph information. 
+
+  There are a lot of reasons why you should write Semantic tags instead of normal HTML tags, to leverage SEO, accessibility, and browser compatibility. 
+
+2. Audio and Video Support
+     HTML 5 feature is to support the audio and video. It has reduced the hassle of relying upon third-party services such as Adobe Flash player. To embed Audio and Video into your HTML document, you may use the following two tags, <audio> and <video> tags. 
+
+    These two tags are launched with the release of HTML 5 and support a numerous range of attributes such as height, width, and more that offers developers to leverage the customization of HTML documents
+
+3. Local Storage 
+   It is a modern feature of HTML and several browsers that typically store data in the user’s browsers and can access them with the help of JavaScript APIs. This feature is useful for creating offline applications where data is need to be stored locally. 
+
+   Moreover, using this feature you can reduce the transactions between the application and the backend server, creating a fast application. However, there are some limitations, such as there is limited storage, and you can not access more storage than that. 
+
+4.Responsive Images
+  Earlier to create responsive images on the web, you have to rely upon several lines of CSS and sometimes JavaScript, however, HTML 5 makes the process handy by including srcset attribute to specify multiple versions of an image at different screen resolutions.
+
+5. Drag and Drop API 
+   Drag and drop is among the most unique features of HTML5 that allow you to grab any element in the DOM and drop it to a different location. To create an element able to drag and drop, set the attribute “draggable” on the tag and put its value to true.
+
+6. Form enhancements
+
+HTML 5 introduces new features for your existing forms on HTML to create a more robust user experience. Some of the key enhancements in the new HTML 5 include new input times such as email, URL, and more, placeholder text, required fields feature, validation, and more.    

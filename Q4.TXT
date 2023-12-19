@@ -1,0 +1,17 @@
+1}Add proper alt text to images.
+Use alt text to provide access to the content of images for individuals who cannot see them, including people using screen readers  Alt text is supported by most document formats, including HTML, Microsoft Word, and Adobe PDF.
+
+2}Use headings properly.
+Use headings and subheadings to form an outline of the page. Do not skip heading levels. They help non-visual users (including search engines) to understand how the page is organized, and make it easy for screen reader users to navigate.
+
+3}Create accessible PDFs.
+Use "tagged PDF", the only type of PDF that supports headings and alt text for images. Use the PDF Accessibility Checker that’s provided by Adobe Acrobat.
+
+
+3}Use ARIA landmarks.
+The W3C Accessible Rich Internet Applications (ARIA) specification makes it possible to produce accessible interactive web applications. One easy entry into ARIA is landmark roles. Simply add an HTML attribute for one of the eight landmark roles (e.g., role="navigation", role="main") and users will be able to jump directly to that section of the page with a single keystroke. Alternatively, use HTML semantic elements that map to ARIA roles. 
+
+4}Add labels to form fields.
+Use the HTML label element so screen reader users will know which labels or prompts are associated with which form fields.
+
+
